@@ -86,7 +86,7 @@ Built during the **HCL Technologies Internship Program**, this system combines l
 
 ---
 
-## ☁️ Cloud Deployment (Render)
+## ☁️ Cloud Deployment (Render & Versal)
 
 links ---https://hcl-frontend-iota.vercel.app/
 
