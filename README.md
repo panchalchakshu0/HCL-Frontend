@@ -6,14 +6,6 @@ Built during the **HCL Technologies Internship Program**, this system combines l
 
 ---
 
-## 👤 Author Information
-
-* **Author**: Akshu Panchal
-* **Email**: [panchalchakshu0@gmail.com](mailto:panchalchakshu0@gmail.com)
-* **LinkedIn**: [Akshu Panchal](https://www.linkedin.com/in/akshu-panchal-b658bb241?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
-* **Repository**: [HCL-backend](https://github.com/panchalchakshu0/HCL-backend.git)
-
----
 
 ## 🚀 Key Features
 
@@ -96,10 +88,14 @@ Built during the **HCL Technologies Internship Program**, this system combines l
 
 ## ☁️ Cloud Deployment (Render)
 
-This repository includes a `render.yaml` Blueprint file for automatic zero-configuration deployment of both the frontend static site and the backend API:
+links ---https://hcl-frontend-iota.vercel.app/
 
-1. Log in to [Render Dashboard](https://dashboard.render.com/).
-2. Click **New +** -> **Blueprint**.
-3. Connect your repository: `panchalchakshu0/HCL-backend`.
-4. Configure any required environment variables (such as API keys) inside your Render dashboard's Env settings.
-5. Click **Apply**! Render will deploy both services and automatically link them.
+
+7. ## 👤 Author Information
+
+* **Author**: Akshu Panchal
+* **Email**: [panchalchakshu0@gmail.com](mailto:panchalchakshu0@gmail.com)
+* **LinkedIn**: [Akshu Panchal](https://www.linkedin.com/in/akshu-panchal-b658bb241?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
+* **Repository**: [HCL-backend](https://github.com/panchalchakshu0/HCL-backend.git)
+
+---
